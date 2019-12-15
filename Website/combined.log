@@ -1,0 +1,366 @@
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T12:35:54.930Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T12:54:25.796Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T12:54:35.603Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T12:54:52.150Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T12:55:39.533Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T12:59:22.601Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T13:01:44.327Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T13:10:58.980Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T13:11:21.693Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T13:13:39.754Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T13:14:05.622Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T13:14:37.352Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T13:14:41.929Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T13:16:49.487Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T13:17:08.078Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T13:17:26.231Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T13:17:31.275Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T13:17:34.400Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T13:18:43.136Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T13:19:23.612Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T13:20:03.088Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T13:20:14.884Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T13:21:57.357Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T13:22:08.692Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T13:22:23.333Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T13:22:46.409Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T13:23:22.798Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T13:24:39.828Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T13:25:01.154Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T13:26:20.458Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T13:26:31.765Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T13:31:42.202Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T13:32:41.924Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T13:33:41.275Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T13:33:47.074Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T13:35:15.038Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T13:40:13.395Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T13:42:11.788Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T13:45:08.634Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T13:45:14.129Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T13:46:58.725Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T13:49:45.652Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T13:49:50.388Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T13:50:07.775Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T13:50:11.981Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T13:50:15.427Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T13:50:23.701Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T13:50:57.695Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T13:51:30.745Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T13:52:11.279Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T13:52:46.413Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T14:06:01.803Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T14:08:05.322Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T14:08:17.043Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T14:08:27.404Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T14:08:30.615Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T14:08:54.038Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T14:09:44.390Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T14:10:00.954Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T14:10:27.192Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T14:10:52.668Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T14:28:08.604Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T14:45:59.237Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T14:46:04.837Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T14:46:51.224Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T14:46:54.360Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T14:47:02.224Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T15:03:05.933Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T15:03:14.214Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T15:03:55.977Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T15:04:09.154Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T15:04:38.187Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T15:04:54.013Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T15:05:32.916Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T15:07:37.308Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T15:08:16.619Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T15:08:40.157Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T15:12:04.522Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T15:14:51.790Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T15:18:50.886Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T15:19:46.488Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T15:19:52.755Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T15:20:01.052Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T15:23:33.193Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T15:30:41.757Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T15:33:42.785Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T15:35:55.577Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T15:38:50.684Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T15:49:50.951Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T15:51:39.242Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T15:53:04.260Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T15:53:46.663Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T15:56:44.229Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T16:02:25.658Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T16:02:36.575Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T16:03:52.650Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T16:04:30.330Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T18:14:36.470Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T18:14:46.147Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T18:14:57.328Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T18:17:09.719Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T18:18:01.233Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T18:48:06.708Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T18:48:39.685Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T18:49:52.087Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T18:49:58.976Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T18:57:40.234Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T18:58:11.839Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T18:58:24.239Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T19:09:57.762Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-15T01:17:56.318Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T19:55:28.989Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T19:56:55.901Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T19:57:10.690Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-14T19:57:12.576Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-15T02:03:20.933Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-15T02:21:15.620Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-15T02:22:38.087Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-15T02:23:47.008Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-15T02:27:58.549Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-15T03:34:52.339Z' }
+{ level: 'info',
+  message: 'Application is up...',
+  timestamp: '2019-12-15T03:58:47.408Z' }

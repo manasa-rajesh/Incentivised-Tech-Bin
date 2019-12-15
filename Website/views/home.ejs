@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Garbage</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="/assets/css/index.css">
+        <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+            
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    </head>
+    <body>
+        <div id="message">
+            <div class="err-message">
+                <div id="close">X</div>
+                <p id="error"></p>
+            </div>
+        </div>
+        <div class="nav">
+            <div class="app-details">
+                <div class="app-image"><img src="/assets/images/logo.png" style="width: 50px; height:50px;"></div>
+                <div class="app-name">  iBin</div>
+            </div>
+            <div class="nav-menu">
+                <div class="name-enc">
+                    <div class="name-circle"><%= name[0] %></div>
+                    <div class="name"><%= name %></div>
+                    <div class="logout"><i class="material-icons" style="margin-right: 5px;">keyboard_return</i>
+                        Logout</div>
+                </div>
+            </div>
+        </div>
+        <div class="enc">
+            <div class="main-section">
+                <div class="section-header">Reward History</div>
+                <% if (details.length == 0) { %>
+                    <div class="no-history">No history found</div>
+                <% } %>
+                <% for(var i=0; i<details.length; i++) { %>
+                    <div class="contribution">
+                        <div class="header">
+                            <div class="date"><%= details[i].date %></div>
+                            <div class="rewards"><%= details[i].total %></div>
+                        </div>
+                    </div>
+                <% } %>
+
+                <div class="coupons">
+                    <div class="net_rewards">
+                        <div style="margin-right: 20px;">Total reward points left: <%= net_rewards %> </div>
+                        <div>Total reward points earned: <%= total_rewards %> </div>
+                    </div>
+                    <div class="slider">
+                        <div><img src="/assets/images/coupon1.jpeg" class="size"></div>
+                        <div><img src="/assets/images/coupon2.jpeg" class="size"></div>
+                        <div><img src="/assets/images/coupon3.jpeg" class="size"></div>
+                    </div>
+                    <br>
+                </div>
+            </div>
+            <div class="side-view">
+
+                <div class="leaderboard-enc">
+                    <div class="leaderboard">
+                        <div class="leaderboard-header">Monthly Rankings</div>
+                        <div class="collection">
+                            
+                        </div>
+                    </div>
+                    <div class="switch">
+                        Go to lifetime leaderboard <i class="material-icons">arrow_forward</i>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="maps">
+            <span class="map-header">Reward Map</span>
+            <div class="map-enc">
+                <div id="map" class="map"></div>
+                <div class="content">
+                    Click to get heat map of rewards earned
+                </div>
+            </div>
+        </div>        
+    <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+    <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>   
+    <script src="/assets/js/home.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDXUaDC0FaI-LD3ByJ1QHNRV50kTH2Qco0&callback=initMap"
+    async defer></script>
+    </body>
+</html>

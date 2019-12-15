@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html
+>
+    <head>
+        <title>Garbage</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="/assets/css/index.css">
+        <link rel="stylesheet" href="/assets/css/nav.css">
+
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    </head>
+    <body>
+        <div id="message">
+            <div class="err-message">
+                <div id="close">X</div>
+                <p id="error"></p>
+            </div>
+        </div>
+        <div class="main-nav">
+            <div class="option">
+                <div class="logo"><img src="/assets/images/logo.png" style="width: 50px; height:50px;"></div>
+                <div class="company_name">iBin</div>
+            </div>
+            <div class="option">
+                Find a Dustbin
+            </div>
+            <div class="option">
+                About rewards                
+            </div>
+            <div class="login-clean">
+                Want the route to clean? <i class="material-icons">chevron_right</i>
+            </div>
+        </div>
+        <div class="landing-enc">
+            <div class="col col1">
+                <div class="login-header">
+                    "Use it up, get rewards, make it do or do without."
+                </div>
+
+                <div class="login">
+                    <form id="login-form">
+                        <input class="hidden" id="image" type="file" accept="image/*" capture="user">
+                        <div class="loginBtn" id="login-btn">Login</div>
+                    </form>
+                </div>
+            </div>
+            <div class="col">
+
+            </div>
+        </div>
+        <div id="map-section" class="maps">
+            <span class="map-header">Find nearby bins</span>
+            <div class="map-enc">
+                <div id="map" class="map"></div>
+                <div class="content">
+                    Find bins around you
+                </div>
+            </div>
+        </div>            
+
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDXUaDC0FaI-LD3ByJ1QHNRV50kTH2Qco0&callback=initMap"
+    async defer></script>
+    <script src="/assets/js/index.js"></script>
+    
+    </body>
+</html>

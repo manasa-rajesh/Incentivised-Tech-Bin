@@ -1,0 +1,52 @@
+.main-nav{
+    position: absolute;
+    background-color: transparent;
+    z-index: 100;
+    width: 100%;
+    height: 60px;
+    display: flex;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: rgba(0,0,0,0.6);
+    box-shadow: 2px 2px 10px 1px rgba(0,0,0,0.6);
+    flex-direction: row;
+}
+.company_name{
+    font-size: 16px;
+}
+
+.option{
+    width: 150px;
+    height: 60px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: ease-in-out;
+    transition-duration: 1s;
+}
+.option:hover{
+    background-color: rgba(0,0,0,0.1);
+}
+
+.main-nav-down{
+    background-color: white;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: rgba(0,0,0,0.6);
+    box-shadow: 2px 2px 10px 1px rgba(0,0,0,0.6);
+}
+.login-clean {
+    width: 200px;
+    align-self: flex-end;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    top:0;
+    right: 0;
+    justify-content: center;
+    height: 60px;
+    cursor: pointer;
+    transition-duration: 1s;
+    transition: ease-out;
+}
